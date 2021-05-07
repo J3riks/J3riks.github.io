@@ -38,7 +38,7 @@
     text-shadow:1px 1px 0px #2f6627;
 }
 .navbar button:hover {
-    background-color:#00FF7F    ;
+    background-color:#FF00FF    ;
 }
 .navbar button:active {
     position:relative;
