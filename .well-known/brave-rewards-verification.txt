@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
 Domain: j3riks.github.io
-Token: 34053b9f729575529f0fdc7a3fd758b753fa8827cb36bbd253dd5bc17fd5b1d5
+Token: 589a4552c7cc46644fe6b4ca83abf7550f7cc88228c82c379c5e9abeb08257b1
